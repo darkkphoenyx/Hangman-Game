@@ -24,6 +24,7 @@ int main()
     return 0;
 }
 ```
+
 ## Authors
 
 - [@darkkpheonyx](https://github.com/darkkpheonyx)
@@ -47,8 +48,7 @@ Currently, this project has some issues:
 - Sometimes, the game auto crashes.
 - It skips certain Entered letters while compairing it to the database(i.e. Words in the DB).
 - The game doesn't have a proper menu and the Read Instructions of how to play this game is not prepared yet.  
-
-  Despite of all these issues, you will definately enjoy this game.  
+  <br>Despite of all these issues, you will definately enjoy this game.
 
 ## Get Involved
 
