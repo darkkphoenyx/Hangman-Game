@@ -5,6 +5,23 @@ This project was designed as a fun game and as a project for Computer Graphics s
 * You can play this game as a Learning place for English words.
 * You can make your children play this game, as this will/may help them to learn something new.
 * Take a detour at this fun yet a simple game using C++ graphics programming.
+<br>
+```c++
+#include<iostream>
+#include<graphics.h>
+int main()
+{
+int gd=DETECT, gm;
+initgraph(&gm,&gd,"");
+setcolor(CYAN);
+cleardevice();
+outtextxy(200,200,"Welcome to Hangman game");
+getch();
+closegraph();
+return 0;
+}
+
+```
 ## Authors
 
 - [@darkkpheonyx](https://github.com/darkkpheonyx)
