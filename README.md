@@ -20,7 +20,6 @@ getch();
 closegraph();
 return 0;
 }
-
 ```
 ## Authors
 
