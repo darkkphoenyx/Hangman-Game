@@ -11,17 +11,16 @@ This project was designed as a fun game and as a project for Computer Graphics s
 #include<graphics.h>
 int main()
 {
-int gd=DETECT, gm;
-initgraph(&gm,&gd,"");
-setcolor(CYAN);
-cleardevice();
-outtextxy(200,200,"Welcome to Hangman game");
-getch();
-closegraph();
-return 0;
+    int gd=DETECT, gm;
+    initgraph(&gm,&gd,"");
+    setcolor(CYAN);
+    cleardevice();
+    outtextxy(200,200,"Welcome to Hangman game");
+    getch();
+    closegraph();
+    return 0;
 }
 ```
-
 ## Authors
 
 - [@darkkpheonyx](https://github.com/darkkpheonyx)
