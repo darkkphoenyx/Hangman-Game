@@ -25,6 +25,14 @@ int main()
 }
 ```
 
+## In-game images
+
+<img src="https://github.com/darkkpheonyx/Hangman-Game/blob/master/Images/Loading%20page.png" alt="loading imgae"> 
+
+<img src="https://github.com/darkkpheonyx/Hangman-Game/blob/master/Images/Ingame.png" alt="playing game image">  
+
+<img src="https://github.com/darkkpheonyx/Hangman-Game/blob/master/Images/result.png" alt="result image">
+
 ## Authors
 
 - [@darkkpheonyx](https://github.com/darkkpheonyx)
