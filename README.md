@@ -29,9 +29,9 @@ int main()
 
 <img src="https://github.com/darkkpheonyx/Hangman-Game/blob/master/Images/Loading%20page.png" alt="loading imgae" height=300 width=300> 
 
-<img src="https://github.com/darkkpheonyx/Hangman-Game/blob/master/Images/Ingame.png" alt="playing game image">  
+<img src="https://github.com/darkkpheonyx/Hangman-Game/blob/master/Images/Ingame.png" alt="playing game image" height=300 width=300>  
 
-<img src="https://github.com/darkkpheonyx/Hangman-Game/blob/master/Images/result.png" alt="result image">
+<img src="https://github.com/darkkpheonyx/Hangman-Game/blob/master/Images/result.png" alt="result image" height=300 width=300>
 
 ## Authors
 
@@ -53,7 +53,6 @@ int main()
 Currently, this project has some issues:
 
 - The game takes inputs despite of just being in the loading screen.
-- Sometimes, the game auto crashes.
 - It skips certain Entered letters while compairing it to the database(i.e. Words in the DB).
 - The game doesn't have a proper menu and the Read Instructions of how to play this game is not prepared yet.  
   <br>Despite of all these issues, you will definately enjoy this game.
