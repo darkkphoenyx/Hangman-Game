@@ -23,7 +23,6 @@ int main()
     return 0;
 }
 ```
-
 ## Authors
 
 - [@darkkpheonyx](https://github.com/darkkpheonyx)
