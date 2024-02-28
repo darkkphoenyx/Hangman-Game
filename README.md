@@ -33,10 +33,30 @@ int main()
 
 <img src="https://github.com/darkkpheonyx/Hangman-Game/blob/master/Images/result.png" alt="result image" height=300 width=300>
 
-## Authors
+## Author
 
 - [@darkkpheonyx](https://github.com/darkkpheonyx)
 
+
+## 🚀 About Me
+
+I'm an UnderGraduate student of BSc.CSIT 3rd semester.  
+Keen to learn new things in Computer.
+```c++
+while(alive)
+{
+    eat();
+    code();
+    learnNewThing();
+    enjoy();
+    sleep();
+}
+```
+### Contact Me
+Github: [@darkkpheonyx](https://github.com/darkkpheonyx)  
+LinkedIn: [@deepeshsunuwar](https://www.linkedin.com/in/deepesh-sunuwar-6237351aa/)  
+Facebook: [@deepeshsunuwar](https://www.facebook.com/deepesh.singhsunuwar)  
+E-mail: deepgeneral33@gmail.com
 ## Documentation
 
 [Check out the Documentation here.](https://docs.google.com/document/d/1rvDTdmEmU53e5OW6EzRvbgsiDeGL_p43/edit?usp=drive_link&ouid=107100321595771104912&rtpof=true&sd=true)  
