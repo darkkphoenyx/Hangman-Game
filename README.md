@@ -11,6 +11,7 @@ This project was designed as a fun game and as a project for Computer Graphics s
 ```c++
 #include<iostream>
 #include<graphics.h>
+using namespace std;
 int main()
 {
     int gd=DETECT, gm;
