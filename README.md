@@ -35,7 +35,7 @@ int main()
 
 ## Author
 
-- [@darkkpheonyx](https://github.com/darkkpheonyx)
+- [@darkkphoenyx](https://github.com/darkkphoenyx)
 
 
 ## 🚀 About Me
@@ -53,7 +53,7 @@ while(alive)
 }
 ```
 ### Contact Me
-Github: [@darkkpheonyx](https://github.com/darkkpheonyx)  
+Github: [@darkkphoenyx](https://github.com/darkkphoenyx)  
 LinkedIn: [@deepeshsunuwar](https://www.linkedin.com/in/deepesh-sunuwar-6237351aa/)  
 Facebook: [@deepeshsunuwar](https://www.facebook.com/deepesh.singhsunuwar)  
 E-mail: deepgeneral33@gmail.com
